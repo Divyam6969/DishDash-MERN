@@ -28,16 +28,18 @@ Then run this project with npm
     
 ## Demo
 
-Before Loggin in
+Home Page
 
-Signup Page
+Sign up Page
+<img width="960" alt="signup page" src="https://github.com/Divyam6969/DishDash-MERN/assets/86784749/7f222cc6-94ab-4901-a29d-ae3c9333b849">
 
 Login Page
+<img width="960" alt="login page" src="https://github.com/Divyam6969/DishDash-MERN/assets/86784749/c0590f63-ab60-4fe9-844d-1f5b696e74f3">
 
 After Loggin in
 
 DataBase 
-
+<img src="https://github.com/Divyam6969/DishDash-MERN/blob/master/Clips/Clips%20for%20readme/signup%20details.png">
 
 
 ## Authors
