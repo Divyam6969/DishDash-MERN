@@ -30,6 +30,9 @@ Then run this project with npm
 ![ezgif com-video-to-gif](https://github.com/Divyam6969/DishDash-MERN/assets/86784749/faecaafe-8ec8-4bb0-aeb0-985f624ffbb5)
 ![ezgif com-video-to-gif (2)](https://github.com/Divyam6969/DishDash-MERN/assets/86784749/91a15a18-375c-4dc2-b8ef-084317dab482)
 
+My Previous Orders
+<img width="960" alt="myorders" src="https://github.com/Divyam6969/DishDash-MERN/assets/86784749/2d124ed3-408e-4d15-8092-7b377c19c87d">
+
 Sign up Page
 <img width="960" alt="signup page" src="https://github.com/Divyam6969/DishDash-MERN/assets/86784749/7f222cc6-94ab-4901-a29d-ae3c9333b849">
 
@@ -42,7 +45,9 @@ DataBase
 <img width="960" alt="order details" src="https://github.com/Divyam6969/DishDash-MERN/assets/86784749/25bbdb20-8c50-471b-886b-e0b0e7384a58">
 
 
-## Authors
+## Connections
 
-- [@Divyam](https://www.github.com/divyam6969)
+- [Github](https://www.github.com/divyam6969)
+- [Linkedin](https://www.linkedin.com/in/divyam-malik-8402a821a/)
+- [Portfolio](https://divyam6969.github.io/)
 
